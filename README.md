@@ -1,17 +1,17 @@
 # AI con Python y la API de OpenAI
 ## Introducción
 
-En este laboratorio, se quiere demostrar el uso del desarrollo de una aplicacion, subiendola a servicios LAMBDA, que son apuntados desde un API Gateway.
-En este informe se quiere mostrar el desarrollo del laboratorio al montar los servicios y generar las pruebas dadas en cada uno.
+En este laboratorio, se quiere demostrar el uso de la implementacion de las librerias de OpenAI, para el correcto uso e implementacion en codigo de una IA.
+Ademas, de mostrar el funcionamiento de preguntas y respuestas a la IA implementada, considerando una API KEY, dada por el profesor.
 
 ### Prerrequisitos
 
-Para el correcto uso del servidor, es necesario tener las siguientes aplicaciones instaladas:
-- JAVA
+Para el correcto uso del servicio, es necesario tener las siguientes aplicaciones instaladas:
+- PYTHON
      ```sh
    python3 --version
    ```
-- MAVEN
+- JUPYTER
      ```sh
    jupyter -v
    ```
